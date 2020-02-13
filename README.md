@@ -1,2 +1,2 @@
-# nfl_2012-2016_stats_ensemble_modeling
-nfl_2012-2016_stats_ensemble_modeling
+# nfl_stats_ensemble_modeling
+nfl 2012-2016 stats
